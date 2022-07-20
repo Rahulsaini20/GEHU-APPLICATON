@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "767751717701",
+    "firebase_url": "https://final-gehu-app-default-rtdb.firebaseio.com",
+    "project_id": "final-gehu-app",
+    "storage_bucket": "final-gehu-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767751717701:android:fba056d2c43b12a1ea342c",
+        "android_client_info": {
+          "package_name": "com.example.finalgehuapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767751717701-u5asgmn28or2oolq656ju3onhqko9rhu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHgx7plb2usChkSLXQHUlKhngvtYzK2rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767751717701-u5asgmn28or2oolq656ju3onhqko9rhu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

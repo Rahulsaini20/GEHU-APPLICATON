@@ -1,0 +1,46 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">final gehu app</string>
+
+    <string name="bold" tools:ignore="ReferenceType">@font/fbold</string>
+    <string name="light" tools:ignore="ReferenceType">@font/flight</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/fregular</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="videos">videos</string>
+    <string name="ebooks">GEHU ERP</string>
+    <string name="theme">theme</string>
+    <string name="website">website</string>
+    <string name="rate_us">rate_us</string>
+    <string name="developer">developer</string>
+    <string name="home">Home</string>
+    <string name="notice">Notice</string>
+    <string name="faculities">Faculities</string>
+    <string name="gallary">Gallary</string>
+    <string name="about">About</string>
+
+    <string name="graphic_era_hill_university">Graphic Era Hill University</string>
+    <string name="dpartments">Dpartment Of Engineerings</string>
+    <string name="mechanical_engineering">Mechanical Engineering</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="civil_engineering">Civil Engineering</string>
+    <string name="graphic_era_hill_university_dehradun_campus_is_located_in_the_cantonment_area_along_the_rajaji_national_park_against_the_panoramic_view_of_shivalik_hills_the_university_offers_perfect_ambience_for_all_academic_pursuits_health_growth_and_widening_of_mental_horizons_gehu_dehradun_campus_is_fully_equipped_with_state_of_the_art_computer_centres_and_labs_spacious_and_temperature_regulated_class_rooms_lecture_theatres_and_seminar_halls_accommodation_and_medical_facilities_and_our_very_own_radio_station_the_dehradun_campus_of_graphic_era_hill_university_has_been_acclaimed_and_honored_at_various_events_of_national_and_international_prominence">Graphic Era Hill University Dehradun campus is located in the cantonment area, along the Rajaji National Park against the panoramic view of Shivalik Hills. The University offers perfect ambience for all academic pursuits, health growth and widening of mental horizons. GEHU – Dehradun campus is fully equipped with state-of-the-art computer centres and labs, spacious and temperature regulated class rooms, lecture theatres and seminar halls, accommodation and medical facilities and our very own radio station. The Dehradun Campus of Graphic Era Hill University has been acclaimed and honored at various events of national and international prominence</string>
+    <string name="clement_town_dehradun">Bell Road,Clement Town Dehradun</string>
+    <string name="graphic_era_hill_universitys">Graphic Era Hill University</string>
+    <string name="computer_science_engineering">Computer Science Engineering</string>
+    <string name="electrical_electronics_engineering">Electrical/Electronics Engineering</string>
+    <string name="contactus">Contact us-01352645565,01352645996</string>
+    <string name="admissions_gehu_ac_in_enquery_gehu_ac_in">admissions@gehu.ac.in , enquery@gehu.ac.in</string>
+    <string name="graphic_era_hill_universityk">Graphic Era Hill University</string>
+    <string-array name="theme">
+
+    <item>System Default</item>
+    <item>Dark </item>
+    <item>Light</item>
+    </string-array>
+
+    <string name="title_activity_pdf_viewer">PdfViewerActivity</string>
+    <string name="about_college" />
+</resources>
